@@ -80,7 +80,7 @@ These security measures are crucial for:
 *   **Maintaining Application Integrity:** Preventing unauthorized modifications to the application's data and functionality.
 *   **Ensuring Availability:** Protecting the API from denial-of-service attacks and ensuring that it remains available to legitimate users.
 
-🚀 CI/CD
+# 🚀 CI/CD
 CI (Continuous Integration) is the process of automatically testing and validating code whenever changes are made. This helps catch bugs early, ensures code quality, and supports smooth collaboration across the development team.
 
 CD (Continuous Delivery or Continuous Deployment) takes over after successful tests.
